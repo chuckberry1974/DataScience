@@ -1,2 +1,2 @@
 # DataScience
-Simple exercise for KNN &amp; Linear Regression
+Simple exercise_1
